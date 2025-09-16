@@ -1,6 +1,5 @@
 # Linea-temporal-
 # 📌 Línea del tiempo ZARA
-
 ```mermaid
 timeline
     title Evolución de ZARA
